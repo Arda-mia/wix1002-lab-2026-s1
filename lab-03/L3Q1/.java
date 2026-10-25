@@ -1,6 +1,6 @@
-package l3q1;
+package L3Q1;
 
-public class Main {
+public class L3Q1 {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
         System.out.print("Enter two integer number: ");
